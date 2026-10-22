@@ -19,7 +19,7 @@ public static void main(String[] args){
 }
 ```
 
-También podemos poner links como [este](https://github.com/vall23166-sys/intro-git)
+Tambien podemos poner links como [este](https://github.com/vall23166-sys/intro-git)
 
 Para embeber una imagen o video, usamos:
 ![Una colina](../intro-git/hero.png)
